@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Asheesh Gupta, a Java backend developer with a passion to learn new technology.
+- 👋 Hi, I’m Asheesh Gupta, a Java backend developer with a passion to learn technology.
 - 👀 I’m interested in resolving problems or create thing which helps others, When I was as a customer care executive at that time I got to knew that helping others gives us inner happy.
 - 🌱 I’m currently learning java backend developer at Masai School.
 - 💞️ I’m looking to work with a organization where I can improve my professional as well as personal skill.
