@@ -4,7 +4,7 @@
 - 💞️ I’m looking to work with a organization where I can improve my professional as well as personal skill.
 - 📫 Reach out to me
 - on Linkedin - https://www.linkedin.com/in/asheesh-gupta-42b045227/ or E-mail - asheeshgupta029@gmail.com
-- Resume - https://drive.google.com/file/d/1QjgucjdzXat_1CcG_JUDZU8-tKNz_Dyl/view
+- Resume - https://drive.google.com/drive/u/0/my-drive
 
 <!---
 asheesh2025/asheesh2025 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
