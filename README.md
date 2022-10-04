@@ -50,19 +50,4 @@
 
 <a href="https://github.com/asheesh2025/github-readme-activity-graph"><img alt="asheesh gupta Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=asheesh2025&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
-<br/>
-<br/>
 
-<!-- ## Connect with me:
-<p align="left">
-
-<a href = "https://www.linkedin.com/in/subham-raoniar/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-
-
-</p>
-
-## ❤ Views and Followers
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=asheesh2025">
-</a>
-<a href="https://github.com/asheesh2025?tab=followers"><img src="https://img.shields.io/github/followers/asheesh2025?label=Followers&style=social" alt="GitHub Badge"></a> -->
