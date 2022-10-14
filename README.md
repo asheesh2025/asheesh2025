@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m interested in solving problems or create thing which helps others.,
+- 🔭 I’m interested in resolving problems or create thing which helps others.,
 
 - 🌱 I’m currently learning **Data Structures and Algorithms.**
 
