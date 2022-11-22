@@ -16,7 +16,7 @@
 
 - 📫 Linkdin **https://www.linkedin.com/in/asheesh-gupta-42b045227/**
 
-- 📫Portfolio **https://asheeshguptaportfolio.netlify.app/**
+- 📫Portfolio **https://asheesh-gupta-portfolio.netlify.app/**
 
 ## 🚀 Languages and Tools:
 
