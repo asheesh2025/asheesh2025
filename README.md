@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **asheeshgupta029@gmail.com**
 
-- 📫 Linkdin **https://www.linkedin.com/in/asheesh-gupta-42b045227/**
+- 📫 LinkdIn **https://www.linkedin.com/in/asheesh-gupta-42b045227/**
 
 - 📫Portfolio **https://asheesh-gupta-portfolio.netlify.app/**
 
